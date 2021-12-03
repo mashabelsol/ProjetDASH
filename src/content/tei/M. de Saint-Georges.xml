@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Portraits Contemporains V</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Figaro</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Retrieved from Gallica</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div>
+          <head type="portraits">Portraits Contemporains</head>
+          <head type="persName"> M. De Saint-Georges </head>
+           <p>Je ne sais quel auteur a dit que, pour écrire sur une beauté à la mode, 
+            il lui faudrait une plume de colibri, trempée dans de l'ambroisie.
+            Je me servirais volontiers de cette plume pour le portrait que je
+            vais tracer aujourd'hui.  Il ne s'agit pas de peu de chose,
+            en effet; nous nous adressons à la quintessence de l'élégance
+            et de la distinction, à un gentilhomme de la vieille roche,
+            lequel il n'est pas fait non plus. <persName> M. de Saint-Georges </persName>
+            a cent ans de trop sur la tête. Placez-le en 1758, et vous aurez un des plus charmants
+            courtisans de l'OEil-de-Bœuf 
+            <note place="end"> Le salon de l'Œil-de-bœuf est un salon de l'appartement du Roi dans le château de Versailles. </note> 
+            un poète agréable des théâtres
+            de <persName> madame de Pompadour </persName> <note place="end"> Courtisane du roi. </note> et de <persName> Sainte-Assise </persName>,
+            vous aurez un de ces hommes d'autrefois pour qui l'honneur était le premier
+            mobile, dont la parole était sûre et fidèle comme l'acier. Il y a dans
+            ce caractère mille nuances et des couleurs bien tranchées les nuances,
+            je ne sais pourquoi, frappent plus que les couleurs de ces nuances.
+            L'opinion déraisonnable et abusée a formé un kaléidoscope à son usage,
+            qui ne ressemble à rien et qui n'est bon qu'à faire un jouet.
+            Que n'a-t-on pas dit sur l'écrivain qui nous occupe? que n'a-t-on pas imaginé? 
+            Pour quelques traits vraisemblables, vrais peut-être, si vous voulez,
+            combien ne lui a-t-on pas prêté d'exagérations, et, tranchons le mot, de ridicules?
+            N'est pas ridicule qui veut à ce prix-là.
+            </p>
+            <p>
+            N'a pas qui veut des avantages
+            physiques qui résistent au temps et aux orages de la vie.
+            </p>
+            <p>
+            N'a pas qui veut un esprit assez heureux pour se faire jouer toute l'année sur nos premiers théâtres.
+            </p>
+            <p>
+            N'a pas qui veut des manières et une éducation de grand seigneur.
+            </p>
+            <p>
+            Ces travers tant reprochés à M. de Saint-Georges seraient des
+            qualités dans un autre monde que le nôtre. A présent ce sont
+            des anomalies, des anachronismes; c'est une satire des façons
+            actuelles, il faut bien qu'on en glose. Les hommes sont débraillés, 
+            ils s'habillent comme des cochers en goguette, ils parlent
+            chevaux, ils voient, ils entendent chevaux; si l'on n'est pas
+            centaure, on n'est pas digne d'être nommé. Voilà pour la fashion. 
+            Prenezla partie de la société qui s'intitule elle-même intelligente, 
+            c'est pis encore; on ne parle pas cheval, on parle argot. Le grand 
+            mérite, c'est de ressembler le moins possible à ces bourgeois, 
+            dont on se moque du matin au soir, et qui ont du bon, néanmoins.
+            Pourvu qu'on boive un nombre respectable de choppes, pourvuqu'on jauge 
+            sa botte de cigares en un temps donné, pourvu qu'on coure les <emph>demoiselles</emph> 
+            et qu'on se tienne à la hauteur de leur distinction, on est complet
+            Quant à la petite bagatelle de la propreté, de la politesse, du savoir-vivre,
+            à quoi bon tout cela? Pourquoise gêner? Pourquoi traiter les
+            femmes autrement que ses camarades, quand on a
+            obtenu d'elles ce qu'on les croit susceptibles de donner, ou qu'on n'en
+            veut rien obtenir du tout? Bah la vie est comme le Panthéon
+            de Nadar <note place="end"> Large frise lithographique réalisée par Nadar en 1854 
+            regroupant près de 250 portraits de célébrités littéraires et journalistiques, dessinés en pied. Plusieurs des sujets des "Portraits contemporains" y figurent. 
+            Les quelques femmes admises à ce panthéon majoritairement masculin apparaissent representées sous la forme de bustes disposés sur un plateau, 
+            en équilibre sur la tête du critique Ernest Legouvé, défenseur des droits des femmes. </note>
+            chacun défile à son tour, chacun fait la grimace qui
+            lui semble agréable, et quand on a passé qu'importe. Nous
+            avons créé la philosophie d'estaminet, qui n'a rien de commun
+            avec la philosophie de cabaret de nos grands pères, celle-là au
+            moins pétillait d'esprit et de gaieté. La nôtre n'est que le mépris 
+            de ce qui est bien, et ses saillies sont du commérage.
+            </p>
+            <p>
+            Au milieu de ce monde, <persName>M. de Saint-Georges</persName> fait tache, vous
+            le comprendrez <persName> M. de Saint-Georges </persName> pommadé, parfumé, tiré à
+            quatre épingles <persName>M. de Saint-Georges</persName> qui sait se présenter dans
+            un salon, qui ne salue pas en magot à ressorts <persName>M. de Saint Georges </persName> rendant à chacun ce qu'il doit. 
+            Il est affecté peut-être, je ne le nie pas, mais il le paraîtrait moinssi les autres n'eussent
+            pas jeté les convenances aux orties. Il a de l'esprit de bonne
+            compagnie, il a le talent du savoir dire, il conte bien, il écrit de
+            jolis billets. C'est un petit-maître attardé, en un mot.
+            </p>
+            <p>
+            Tout ce qui l'entoure lui ressemble. Sa maison est propre,
+            parfumée, élégante. Son appartement, riche et bien orné, n'est
+            peut être pas d'un goût très pur, il n'est pas artiste surtout. Les
+            couleurs sont criardes et ne s'assortissent pas bien à l'œil
+            mais tout y est confortable, tout y respire l'aisance, tout y est
+            <emph>cossu</emph>. Son lit a des rideaux garnis de dentelles, comme celui
+            d'une jolie femme sa toilette ressemble à celle d'une marquise
+            du bon temps, les essences, les saveurs, les pâtes de tous les
+            pays s'y rencontrent et ont leur place marquée: c'est un bouquet. Quand il en sort, 
+            on le sent longtemps avant de le voir. Les mauvais plaisants prétendent qu'il 
+            répand une bouteille d'eau de Cologne dans la mer avant de s'y baigner.
+            </p>
+            <p>
+            <persName>M. de Saint-Georges</persName> n'a plus vingt ans, tant pis pour ceux
+            qui s'en aperçoivent! c'est qu'ils y mettent de l'obstination; il
+            fait tout pour le faire oublier aux autres et pour l'oublier lui même. 
+            C'est le plus sage et le meilleur parti. Sa vie est réglée
+            comme doit l'être celle d'un homme qui se respecte beaucoup
+            et qui veut être respecté. Il va dans le monde. Il a
+            des amis dans tous les cercles, il est en même temps recherché dans la
+            société et chez les artistes ses amis lui restent parce qu'ils l'estiment, 
+            et parce que personne mieux que lui ne sait plaindre ceux qui souffrent. Il a
+            des paroles et des regards qui consolent et qui promettent, ce sont les regards 
+            qui promettent, je tiens à être clair avant tout. <persName>M. de Saint-Georges</persName> ne ment jamais que
+            dans ses pièces.
+            </p>
+            <p>
+            Il reçoit beaucoup de visites: la matinée est prise par les
+            répétitions, l'après-midi par les collaborateurs, puis les demandeurs de billets, 
+            pour lesquels il est très généreux, les quémandeurs de rôles, les chanteursenroués, 
+            les danseuses aspirantes et les premiers sujets. Il accueille les solliciteurs, 
+            les connaissances et les importuns avec la même courtoisie. Il est attablé,
+            on aime à le regarder; son visage plait, l'expression en est
+            douce et animée en même temps. Son costume de chambre est
+            ouaté comme sa vie. Rien ne blesse dans ce qui le touche et
+            dans ce qu'il fait. Il est bienveillant, il encourage les timides.
+            On l'accuse d'avoir une opinion exagérée de lui-même et de ce
+            qu'il fait. Si cela est, au moins se sert-il de cette vanité pour
+            être utile aux autres et les protéger. Cette protection n'est point
+            de celles qui humilient, mais de celles qui appuient, au contraire. Ce mérite est rare; 
+            rien de plus difficile que de savoir protéger.
+            </p>
+             <p>
+            L'Opéra-Comique a peut-être un peu déteint sur le gentilhomme c'est, pour mon compte, 
+            le seul reproche que je lui ferais. Comment? pourquoi? qu'y a-t-il laissé? Je ne saurais vous
+            le dire je le sens plus que je ne puis l'exprimer. Jamais, cependant, <persName> M. de Saint-Georges <persName> 
+            ne s'est mêlé à aucun tripot dramatique il a toujours pris la chose de haut, même lorsqu'il était intéressé 
+            pécuniairement dans un théâtre. Et à ce sujet, justice pleine et entière doit lui être rendue.
+            Directeur de l'Opéra-Comique, à l'époque où on jouait dans la
+            salle Ventadour, l'administration fit de mauvaises affaires, non
+            par sa faute, mais par celle des événements. Il avait un ou
+            deux collègues, il prit le malheur pour lui, tout fut payé jusqu'au dernier sou. 
+            Sa fortune personnelle y passa; il fut ruiné
+            à ne pas conserver le nécessaire. C'est un trait rare dans tous
+            les temps, dans celui où nous vivons surtout. Bien peu de gens
+            peuvent arborer cette fière devise:
+            </p>
+            <p>
+            <quote>« Tout est perdu, fors l'honneur. »</quote>
+            </p>
+            <p>
+           <persName> M. de Saint-Georges <persName> se souvint du nom qu'il portait, il ne
+            voulut permettre à personne de lui jeter une souillure; il se
+            sacrifia, et, léger comme un étudiant qui commence, il se mit à
+            travailler sans relâche. Il a réussi, tant mieux! Dieu et les hommes ont fait leur devoir 
+            en cette circonstance, nul n'avait plus de droits que lui au succès. Il gagne beaucoup d'argent, tant
+            mieux encore! il est digne d'être millionnaire. Un honnête homme qui parvient 
+            dédommage de vingt fripons qui triomphent. Cet argent qu'il a
+            conquis, il y tient et ne le dépense pas à tort et à travers.
+            </p>
+            <p>
+            On assure qu'il n'attache pas ses amis ni ses collaborateurs
+            avec des saucisses. Il se crée une fortune pour quand la bise
+            sera venue, comme la fourmi. En homme prévoyant, il a
+            étudié la morale de cette fable, lui qui vit au milieu des cigales
+            de tout genre. Il traite rarement; lorsqu'il le fait, rien n'y
+            manque. Ses soirées se composent d'éléments hétérogènes, on y
+            voit un échantillon de tous les mondes, il fait bien les honneurs
+            de chez lui. Son talent pour la prestidigitation lui ferait trouver une ressource
+            si les théâtres s'écroulaient. Il est d'une adresse merveilleuse, il excelle à <emph>blaguer</emph> 
+            le public pour le distraire de ses <emph>ficelles</emph>, il relève ses manches avec un geste tout
+            gracieux, et les <persName>Hamilton</persName>, les <persName>Robert Houdin</persName> 
+            <note place="end">Célèbre prestidigitateur et illustionniste français, Jean-Eugène Robert-Houdin est également le directeur d'un théâtre de soirées fantastiques à Paris. En 1852, le Théâtre Robert-Houdin est repris par son assistant Hamilton (nom de scène de Pierre Etienne Chocat). </note>
+            n'auraient rien à lui apprendre. On s'amuse infiniment chez lui lorsqu'il accorde ce spectacle. Il a
+            de très bonne musique, cela se comprend, les artistes sont heureux de lui être agréables.
+            </p>
+            <p>
+            <persName>M. de Saint-Georges</persName> a des amis; je vous l'ai dit tout à l'heure,
+            s'il protège les autres, il a aussi l'art de se faire protéger.
+            Adroit, fin limier, il ne risque pas de fausses démarches et sait
+            arriver à propos. Il est très choyé dans les cours étrangères, les
+            rois sont ses correspondants, sa boutonnière et sa cravate 
+            s'émaillent de décorations gagnées à la pointe de la plume.
+            </p>
+            <p>
+            Il en est fier et les porte volontiers, cela fait bien sur un habit noir. 
+            Le ruban rouge éclaircit le teint. L'auteur de <title>la Magicienne</title> est toujours 
+            habillé le soir; il ne se présenterait pas à l'Opéra ou chez une femme en négligé il 
+            a les bonnes traditions. Il déteste le cigare, ne fume jamais et n'autorise personne
+            à fumer chez lui. Quand on entre dans ce sanctuaire, on se croirait dans un bosquet de 
+            roses et d'héliotropes; de bonne foi, cela ne vaut-il pas mieux? Pourquoi critiquer 
+            ce goût et s'obstiner à imposer les nôtres? Nous nous roulons dans le Maryland <note place="end"> Tabac à fumer très apprécié, à base de tabac provenant de l'État de Maryland.</note>, 
+            laissons nos voisins respirer les tubéreuses. Nous voulons
+            la liberté pour nous et nous la refusons aux autres, cela n'est ni conséquent, ni loyal.
+            </p>
+            </p>
+            <p>
+            <persName>M. de Saint-Georges</persName> n'entend pas l'amour à notre façon d'à
+            présent. Il a toujours placé les siennes de manière à ce qu'il ne
+            soit pas permis d'en parler. Malgré la position spéciale qu'il occupe, on ne lui a jamais prêté la moindre bonne fortune au
+            théâtre, jamais le moindre scandale ne s'est attaché à son nom.
+            Je ne dis pas qu'il n'ait point été favorisé et plus que d'autres
+            qui le crient sur les toits. Peut-être son valet de chambre pourrait-il déployer une liste aussi longue que celle de don Juan, si
+            toutefois son valet de chambre était dans sa confidence, ce dont je doute.
+            </p>
+            <p>
+            La discrétion faisait jadis partie de l'éducation d'un homme
+            de bonne compagnie, et <persName>M. de Saint-Georges</persName> a éte trop bien 
+            élevé pour que cette vertu ne fût pas chez lui la première de
+            toutes. J'ai dit <emph>vertu</emph>, et je le maintiens. Si l'on calculait les
+            malheurs, les fautes, les bouleversements arrivés par suite des
+            indiscrétions, on rangerait la vertu opposée dans le nombre des
+            vertus cardinales.
+            </p>
+            <p>
+            Je ne puis donc parler que par suppositions, par à peu près,
+            des fastes de la galanterie de mon héros. Je sais seulement qu'il a
+            montré beaucoup de cœur et de dévouement dans différentes
+            circonstances je sais qu'il a été adoré, je sais que, si on racontait 
+            le roman intime de cette brillante existence, on y trouverait des pages
+            d'un intérêt saisissant et qui feraient répandre des larmes à nos belles
+            lectrices. Il n'est pas permis d'en dire davantage on ne voit que ce qui 
+            se montre, et si le caractère, les œuvres des poètes appartiennent au public, 
+            empressé de les connaître, leur vie privée ne peut être crochetée que par des
+            pamphlétaires, lorsque, comme <persName>M. de Saint-Georges </persName>, ils ont le
+            bon esprit de faire deux parts d'eux-mêmes, celle qu'ils livrent
+            et celle qu'ils conservent: ordinairement celle-là est la meilleure.
+            </p>
+            <p>
+            <persName>M. de Saint-Georges</persName> a fait beaucoup de pièces; il réussit à
+            l'Opéra et aux autres théâtres lyriques ses ballets sont cités.
+            Parmi les libretti qu'il a mis au jour, les plus jolis sont certainement <title>l'Eclair</title>, 
+            <title>l'Ambassadrice</title> et <title>les Mousquetaires de la
+            reine </title>, bien que les reines n'aient jamais eu de mousquetaires;
+            mais pour chanter on n'y regarde pas de si près. Il est heureux
+            dans le choix de ses musiciens. Presquetoutes les partitions de
+            ses poèmes sont charmantes. Il s'entend merveilleusement à la
+            coupe des airs et des duos. Je ne vous assure pas que ses vers
+            vaillent ceux de Racine; mais à quoi bon? la plupart du temps
+            on ne les entend pas. Les artistes diraient n'importe quoi sur
+            leurs roulades ou leurs adagios, que nous ne nous en douterions
+            guère. On sait l'histoire de <persName>Sophie Arnould</persName>, 
+            ayant parié avec <persName>le duc de Lauraguais</persName> que, dans <title>Iphigénie</title>, 
+            en présence du roi et de la cour, elle chanterait à pleine voix, en réponse à ces paroles 
+            de sa confidente:
+            </p>
+            <p>
+            <quote>Rassurez-vous, belle princesse,
+            Achille sera votre époux. </quote>
+            </p>
+            <p>
+            Elle paria donc de chanter et de recommencer par deux fois,
+            sans que personne s'en doutât, une petite phrase incidente,
+            dont le dernier mot rime avec <emph>époux</emph> et indiquant que cela lui
+            était très égal je ne me permettrais pas de la répéter, surtout
+            en présence de celui dont nous nous occupons.
+            </p>
+            <p>
+            Au total, <persName>M.de Saint-Georges</persName> est parfaitement sympathique à
+            ceux qui demandent à un homme des qualités supérieures, une
+            tenue irréprochable et le respect de lui-même. Ses cheveux toujours et <emph>légitimement</emph> noirs, 
+            ses gants sans tache, ses chemises étincelantes, font aboyer les roquets littéraires; laissons-les dire
+            et prenons le bon, l'excellent, partout où nous le rencontrons. D'ailleurs, entre l'excès 
+            de l'un et l'excès des autres, le choix est facile: je préfère l'exagération de l'ess-bouquet <note place="end">L'Ess-Bouquet (contraction de "essence of bouquet") de la Crown Perfumery Co., est un des parfums anglais les plus anciens, dont la recette est enregistrée à Londres dès 1711. Il s'agit du parfum préféré de George IV (1762-1830).</note>
+            à celle du bouquet de ces messieurs.
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
