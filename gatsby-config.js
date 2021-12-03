@@ -1,4 +1,4 @@
-const basePath = '/mith301-project'
+const basePath = '/ProjectDASH'
 
 module.exports = {
   pathPrefix: basePath,
