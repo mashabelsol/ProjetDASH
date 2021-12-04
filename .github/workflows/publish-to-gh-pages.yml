@@ -3,7 +3,7 @@ name: Gatsby Publish to GH Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
