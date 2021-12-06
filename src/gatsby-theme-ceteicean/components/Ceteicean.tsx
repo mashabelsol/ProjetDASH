@@ -53,7 +53,7 @@ export default function MicroEditionCeteicean({pageContext}: Props) {
         <Ceteicean pageContext={pageContext} routes={routes} />
         <Paper elevation={1} className={classes.original}>
           <Typography variant="body2">
-            <Link to={pageContext.publicURL} download>See original TEI.</Link>
+            <a href={pageContext.publicURL} download>See original TEI.</a>
           </Typography>
         </Paper>
       </ThemeProvider>
