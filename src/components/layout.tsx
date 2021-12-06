@@ -127,8 +127,8 @@ export default function Layout({children}: Props) {
     setOpen(false)
   }
 
-  const pages = data.allFile.nodes.filter((item: any) => item.name !== 'home')
-  pages.unshift({name: 'home'})
+  const pages = data.allFile.nodes.filter((item: any) => item.name !== 'Acceuil')
+  pages.unshift({name: 'Acceuil'})
 
   return (
     <ThemeProvider theme={theme}>
