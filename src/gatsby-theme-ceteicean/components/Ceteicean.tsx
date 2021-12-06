@@ -1,7 +1,7 @@
 import React from "react"
 import Ceteicean, {Routes} from "gatsby-theme-ceteicean/src/components/Ceteicean"
 import {
-  TeiHeader, Tei, Note, Ref, Graphic 
+  TeiHeader, Tei, Note, Ref, Graphic
 } from "gatsby-theme-ceteicean/src/components/DefaultBehaviors"
 
 import {Link} from "gatsby"
@@ -41,9 +41,7 @@ export default function MicroEditionCeteicean({pageContext}: Props) {
     "tei-tei": Tei, 
     "tei-note": Note,
     "tei-ref": Ref,
-    "tei-graphic": Graphic,
-
-
+    "tei-graphic": Graphic
   }
 
   return(
