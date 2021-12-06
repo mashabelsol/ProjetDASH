@@ -59,12 +59,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     let rawContent = rawPage
 
     // src attributes      
-    rawContent = rawContent.replace(/src="(?!https?:\/\/)([^"]+)"/, `src="${isProduction ? pathPrefix : ''}/$1"`)
+    rawContent = rawContent.replace(/src="(?!https?:\/\/)([^"]+)"/g, `src="${isProduction ? pathPrefix : ''}/$1"`)
     // href attributes
-    rawContent = rawContent.replace(/href="(?:\/)(?!https?:\/\/)([^"]+)"/, `href="${isProduction ? pathPrefix : ''}/$1"`)
+    rawContent = rawContent.replace(/href="(?:\/)(?!https?:\/\/)([^"]+)"/g, `href="${isProduction ? pathPrefix : ''}/$1"`)
     // links to root in production
     if (isProduction) {
-      rawContent = rawContent.replace(/href="\/"/, `href="${pathPrefix}/"`)
+      rawContent = rawContent.replace(/href="\/"/g, `href="${pathPrefix}/"`)
     }
 
     createPage({
