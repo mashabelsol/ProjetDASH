@@ -23,7 +23,6 @@
   </teiHeader>
   <text>
       <body>
-   
          <div>
          <head type="portraits"> Portraits Contemporains </head>
          <head type="persName"> Alexandre Dumas fils </head>
@@ -141,7 +140,7 @@
            <p>Au total <persName type="historical" ref="AD">Alexandre</persName> est une nature aussi complète qu'il est donné à notre imperfection de l'être. 
            Il laissera le rare exemple d'un homme supérieur que le sort et les hommes ne persècutent pas. Ce ne sera point un martyr de l'art, il ne payera 
            point ses triomphes, il faut bien que cela arrive quelquefois ainsi, ne fût-ce que pour encourager ceux qui débutent. Je ne leur conseille pas de s'y fier.</p>
-           <byline><persName type="pseudonym"> les pseudonymes </persName>Jacques Reynaud</byline>
+           <byline><persName type="pseudonym"> Jacques Reynaud </persName></byline>
 
          </div>
       </body>

@@ -16,15 +16,11 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
-         <div>
-         <docTitle>
-<titlePart type="main">PORTRAITS CONTEMPORAINS</titlePart>
-         <p> - </p>
-<titlePart type="sub">Alexandre Dumas</titlePart>
-         </docTitle>
-   
-            <div> SI </div>
+    <body>
+      <div>
+         <head type="main">PORTRAITS CONTEMPORAINS</head>
+         <head type="sub">Alexandre Dumas</head>
+         <div> SI </div>
             <p>Nous allons nous occuper d'un écrivain dont on a bien diversement parlé sans avoir épuisé ce que l'on en peut dire ce n'est point, comme M. de Lamartine, un de ces dominateurs des masses qui renversent et relèvent des gouvernements avec un discours nous n'emboucherons point les clairons et les trompettes, nous ne gravirons pas les hauteurs de la politique pour y chercher des inspirations. Celui qui pose devant nous est surtout et avant tout lui-même. On fera de lui un portrait, plutôt qu'un tableau, il doit occuper seul son cadre, car c'est une puissante individualité. En lisant ses livres, on est curieux de le connaître, il se reflète sur eux.</p>
             <p><persName>Alexandre Dumas</persName> est heureusement doué par le Créateur. Il a l'esprit le plus prodigieux, le plus <emph> prestigieux </emph>, le plus brillant de cette époque où tout le monde croit en avoir <emph>plus</emph> que son voisin et s'efforce de le prouver en faisant et en écrivant le <emph>plus</emph>de sottises possibles. Son cœur est bon et généreux, ses inclinations nobles ; il a du dévouement, il a des élans magnifiques, une nature aussi riche en affections qu'emportée en passions fougueuses et en exubérances de toutes les sortes. A vingt ans, à ses débuts dans la vie, il lui a manqué un guide bienveillant et éclairé, il lui a manqué une main amie qui l'empêchât d'user de lui-même jusqu'à s'amoindrir et de pousser à l'excès les tendances de son caractère pour en arriver à ne montrer que l'envers de cette trame de diamants et de paillettes. </p>
             <p>On a dit ici même qu'il y avait deux <persName>Dumas</persName> en un il y en a plus encore: jamais âme, esprit et cœur ne furent aussi multiples, aussi différents. On le retrouve rarement comme on le quitte, et il faut le connaître parfaitement pour le reconnaître quelquefois. Cependant, l'excellent fond a résisté, et si on cherche on y arrivera. </p>
@@ -51,8 +47,7 @@
             <p>L'heure du travail est revenue ; les convives du matin ploient bagage il ne sera pas tranquille pour cela. L'après-midi, il en vient d'autres ; puis les aspirants au dîner dressent leurs batteries vers quatre heures. Il sort quelquefois ; ils de devancent et s'établissent chez lui la même scène recommence seulement la galerie est moins nombreuse. Le soir il travaille encore quand ne travaille-t-il pas ? Il voit beaucoup de monde chez lui, très peu ailleurs il va dans peu de maisons, presque jamais au théâtre, jamais à aucune réunion officielle. On l'accuse d'avoir <emph>toujours</emph>besoin d'argent, celui qu'il gagne se partage entre tant d'affamés ! Il est tout simple qu'il ne lui en reste guère pour lui. Il traite savamment la gourmandise, et pourtant, tout en mangeant beaucoup, il est très sobre. Il ne boit que du vin trempé, ne prend pas de café, il ne fume pas, et rien ne lui déplaît comme de voir fumer chez lui. Telle était, du moins, sa vie au temps où je vivais moi-même dans ce milieu artistique. On m'assure que rien n'est changé, si ce n'est le cadre une grande et belle maison au lieu d'un appartement modeste. </p>
             <p>Cette nature, parmi les mille nuances, a deux côtés très marqués et très dissemblables le côté drôle et le côté poétique, le  <persName>Dumas</persName> des <title level="m" type="main">Impressions de voyage</title>et le  <persName>Dumas </persName> de l'<title level="m" type="main">Orestie</title>. Dans sa jeunesse, il y en avait un troisième, le  <persName>Dumas</persName> d'<title level="m" type="main"> Antony</title>, de <title level="m" type="main">Christine</title>, d'<title level="m" type="main">Henri III</title>, le  <persName>Dumas</persName> passionné et terrible en ses colères, en ses jalousies. </p>
             <p>Maintenant il a été souvent trompé, souvent déçu l'insouciance a remplacé la passion, le changement est total sous ce rapport. Heureusement pour lui, il aime son fils, il en est fier, il jouit de ses succès et ne les envie pas. On s'est pourtant servi des triomphes de l'un pour essayer d'écraser l'autre. A <placeName>Paris</placeName>, nous sommes gênés de voir un homme réussir longtemps, nous devenons facilement ingrats envers ceux à qui nous devons tant de plaisirs, nous les oublions et nous semblons tâcher de les en punir en les tourmentant. On n'a rien épargné en ce genre à l'auteur des <title>Mousquetaires</title>. Aussi ceux qui se souviennent, et je suis de ce nombre, trouvent-ils une sorte de justice, une véritable joie, à le venger de tant d'attaques exécrables, en mettant surtout en relief ce que l'on a calomnié, ce que l'on a méconnu. L'amour du changement nous entraîne, les conséquences en sont quelquefois terribles, le pauvre Nourrit en a perdu la raison et s'est brisé la tête sur le pavé ; bien d'autres, pour y avoir mieux résisté, n'en ont pas moins souffert.  <persName>Dumas</persName> n'en mourra pas, je vous en réponds, il est plus fort que les bavards ; il le sait bien. </p>
-            <persName><docAuthor>JACQUES REYNAUD.</docAuthor></persName>
-            <p></p>
+            <p><byline><persName type="pseudonym"> JACQUES REYNAUD </persName></byline></p>
             <p></p>
         </div>
       </body>
