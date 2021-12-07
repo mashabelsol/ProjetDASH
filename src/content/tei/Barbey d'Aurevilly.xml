@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Portraits contemporains</title>
+            <author>Jacques Reynaud</author>
+            <editor>Clara Danos</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Retreived from Gallica</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <pubPlace>Paris</pubPlace>
+               <publisher>Figaro</publisher>
+               <date>8 juillet 1858</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <head type="dedication"> Nous devons à l'exactitude de notre infatigable Fourrier une nouvelle étude littéraire 
+         du pseudonyme Jacques Reynaud.</head>
+         <head type="number"> IV </head>
+         <head type="persName"> Barbey d'Aurevilly </head>
+         <p> <persName type="historical" ref="#BA"> Barbey d'Aurevilly </persName> est devenu une actualité, grâce au <title> Pays </title> 
+         <note place="end">Quotidien bonapartiste publié entre 1849 et 1914. Barbey d’Aurevilly y rentre en 1852. Il y écrit des chroniques littéraires
+          puis des chroniques politiques pendant 10 ans. </note>
+         et aux journaux qui se sont constitués ses adversaires. 
+         Il écrivait depuis vingt ans des livres sérieux ou frivoles, des critiques littéraires, 
+         et presque personne ne s'en occupait ; la lumière était sous le boisseau, 
+         elle est découverte et chacun la voit. Elle n'est pourtant ni plus ni moins brillante : 
+         c’est le même homme, c'est le même talent, ce sont les mêmes défauts et les mêmes qualités. 
+         Tant il est vrai que nous avons notre heure pour toutes choses, il ne s'agit que de l'attendre, 
+         elle est marquée d'avance, elle doit venir. </p>
+         <p> <persName type="historical" ref="#BA"> M. d'Aurevilly </persName> est une étrange figure à peindre ; 
+         il faut le bien connaître pour oser l'entreprendre : 
+         des contrastes frappants se rencontrent chez lui ; quand on le regarde de profil, 
+         il ne ressemble point à ce qu'il était tout à l'heure quand on le regardait de face. 
+         Il est plus qu'original, il est bizarre. C'est en même temps un philosophe et un étourdi ; 
+         c'est un ascète et un épicurien ; c'est un moine et un courtisan de femmes ; c’est un penseur et un esprit léger. 
+         Il est sévère, il est ironique, il est bon, il est facile, il est exclusif, il est doux, il est emporté, non pas à ses heures, 
+         mais dans le même moment, tout à la fois. Il vous conduira, sans transition, du sublime au ridicule. 
+         Emerveillé de son savoir prodigieux, de son éloquence passionnée, après avoir causé quelques instants avec lui, 
+         votre étonnement ne peut se rendre à l'aspect de cet homme à peine descendu des hauteurs éthérées, 
+         où vous avez peine à le suivre, vous le voyez, dis-je, tirant de sa poche un petit miroir, 
+         arrangeant ses moustaches, se faisant des mines, et semblant convaincu qu’une des quatre fins de l'homme est de se regarder 
+         dans une glace et de <emph> se trouver </emph> joli garçon. <note place="end">Le choix de l'italique peut être perçu comme 
+         une petite revanche de la part de l’auteur, surnommé « chanoine » par Barbey d’Aurevilly à cause de sa physionomie.</note> </p>
+         <p>Ce caméléon porte avec lui, dans son cerveau, une bibliothèque inépuisable. 
+         Parlez-lui de l'histoire, il la sait dans ses détails les plus secrets et les plus étendus. 
+         Parlez-lui philosophie, sciences, religion, littérature, théâtres, géographie, métaphysique, ce que vous voudrez, 
+         il vous répondra et dans quels termes ! Quelle conversation que la sienne ! Je n'en connais pas de plus complète, elle réunit tout. 
+         Il est profond et il est gai, il l'est jusqu'à l'excès, pour peu que vous lui donniez la réplique. Vous pouvez le voir longtemps, 
+         si vous êtes superficiel, sans vous douter de ce que renferment cette tête et cette mémoire. 
+         Il vous servira selon votre goût, vous n'aurez de lui que des folies et des épigrammes. 
+         Il possède au suprême degré l'art de railler les gens sans qu'ils s'en doutent ou qu'ils aient le droit de s'en fâcher. 
+         Il vous débitera une parade aussi sérieusement qu'un sermon de <persName type="historical"> Bourdaloue </persName>,
+         <note place="end">prédicateur jésuite de talent (1632-1704) qui a prêché à la cour de <persName type="historical">Louis XIV</persName>. Il a plusieurs surnoms dont 
+         « roi des prédicateurs, prédicateur des rois » et « le plus janséniste des jésuites ». Au moment de la révocation 
+         de l’Edit de <placeName>Nantes</placeName> en 1685, il est envoyé auprès de Protestants pour les convertir.</note> 
+         qu'il sait par cœur, et si sa mémoire lui fait défaut, il y suppléera de son chef ; vous ne vous en apercevrez pas, 
+         à moins d'avoir le livre sous les yeux. </p>
+         <p><persName type="historical" ref="#BA">D'Aurevilly</persName> a écrit bien des choses qu'on a peu lues, 
+         et où se retrouve son mâle et vigoureux talent, la puissance de sa raison, son style inégal, affecté, 
+         ou qui du moins semble l'être. Il a des pages magnifiques, il a des peintures saisissantes et 
+         je ne sais quel reflet sinistre qui étonne et qui intéresse. </p>
+         <p> Il a fait les <title>Prophètes du passé</title>,
+         <note place="end">Essai philosophique publié en 1851</note>
+          étude consciencieuse et hardie de plusieurs moralistes et penseurs. 
+         Il l'a faite à son point de vue d'alors, fort éloigné, pour ceux qui ne le connaissent pas, de son point de vue d'aujourd'hui. </p>
+         <p> Il a souvent changé d'opinion. Son début a été un vif enthousiasme pour les idées républicaines ; 
+         enthousiasme de jeunesse, que la réflexion a éteint et qui s'est transformé, sans transition, en un légitimisme très ardent. 
+         La vieille cause de la royauté n'avait guère, dans les organes de son parti, d'aussi solide joûteur. 
+         Il a traversé ainsi le règne de <persName type="historical"> Louis-Philippe </persName>
+         <note place="end">1830-1848</note> 
+         et les commencements de nos fluctuations depuis 48. Un beau matin, et tout à coup, une troisième transformation s'est opérée, 
+         le papillon est sorti de la chrysalide, armé d'une cuirasse et d'un cimier, arborant le drapeau napoléonien, 
+         aussi haut et aussi ferme que les lis de France et les couleurs de 89, tout cela sans changer ses convictions. 
+         C'est que <persName type="historical" ref="#BA"> M. d'Aurevilly </persName> appartient au parti <emph> catholique </emph> et <emph> ultramontain </emph>. 
+         Ce parti fait abstraction des personnes et ne s'occupe que des idées. Peu importe qui règne, pourvu que quelqu'un règne 
+         et que ce quelqu'un suive la voie orthodoxe. Ce parti veut exclusivement la religion et l'autorité. 
+         Il devient ainsi conséquent avec lui-même, il échappe aux reproches du vulgaire, qui ne comprend pas ces métamorphoses 
+         et il étend son aile protectrice sur les néophytes dont le zèle et l'admiration le divinisent. </p>
+         <p> Après les <title> Prophètes du passé </title>, <persName type="historical" ref="#BA">d'Aurevilly</persName> a écrit cette <title> Vieille Maîtresse </title>,
+         <note place="end">Publié en 1851, roman sur un triangle amoureux.</note> 
+         avec laquelle on le lapide maintenant et qui n'en est pas moins un des livres les mieux composés que je connaisse. 
+         Les tableaux en sont un peu vifs, j'en conviens, ils le sont moins néanmoins qu'un pareil sujet ne le comporte, 
+         et nous avons mille romans que tout le monde lit, sur lesquels on ne jette pas l'eau-bénite, et où la griffe du diable est plus profondément empreinte. 
+         Ce qu'il y a de remarquable dans cet ouvrage, ce sont les vérités qu'il renferme et les magnificences de style qui s'y rencontrent. 
+         <persName type="fictional"> Vellini </persName>
+         <note place="end">personnage éponyme qui voit son amant partir pour une femme plus jeune et qui brise leur couple. </note>
+         est vraie, comme <persName type="fictional"> Leone Leoni </persName>,
+         <note place="end">référence au roman <title> Leone Leoni</title> paru en 1835 de <persName type="historical">George Sand</persName>, où l’amant (éponyme) forme un triangle amoureux 
+         avec <persName type="fictional">Juliette</persName> et <persName type="fictional">Aleo Bustamente.</persName></note> 
+         dont elle est la contre-partie. Qui de nous n'a pas rencontré de ces amours que rien ne peut éteindre, 
+         comme rien ne peut les justifier, et qui, pareilles à la fatalité antique, semblent des châtiments envoyés à des cœurs ingrats. </p>
+         <p> Si <persName type="historical" ref="#BA"> M. d'Aurevilly </persName> ne prêchait pas l'intolérance, 
+         on n'eût pas évoqué cette <title> Vieille maîtresse </title>, et il n'eût point fait paraître une seconde édition. 
+         A force de la critiquer, on a donné envie de la connaître, et l'auteur n'a pu qu'y gagner, littéralement parlant, du moins. 
+         Une autre composition de lui est bien plus oubliée sans le mériter davantage c'est l'<title>Abbé de la Croix-Jugan</title>.
+         <note place="end">roman aussi connu sous le nom <title>L’ensorcelée</title> ou <title>La Messe de la Croix-Jugan</title>. Edité en 1854. 
+         L’abbé est un personnage de la série. L’histoire commence en 1797.</note> 
+         Il y a dans ces deux volumes des pages splendides. 
+         Le talent de <persName type="historical" ref="#BA"> M. d'Aurevilly </persName> est incontestable, et il ne sera jamais populaire ; 
+         la seule raison est qu'on ne le comprend pas ; je vous l'ai dit : il manque de naturel. </p>
+         <p> Cette affectation domine en tout ce qu'il fait. Sa voix, son geste sont emphatiques ; il n'entre pas dans un salon, 
+         il ne dit pas bonjour comme tout le monde et il s'habille comme personne. C'est une de ces excentricités, 
+         un de ces travers inexplicables chez un homme aussi supérieur. 
+         Il avait d'abord adopté un immense manteau dont il se drapait à l’espagnole ; il ne lui manquait qu'une guitare ou une carabine ; 
+         il ressemblait autant à un <persName type="fictional"> Jean Sbogar </persName>
+         <note place="end">Personnage dans le roman éponyme de <persName type="historical">Charles Nodier</persName> publié en 1818 basé sur des faits publiés dans la presse.
+         Ce personnage est un brigand en <placeName>Italie.</placeName></note> 
+         qu'à un amoureux. 
+         Il pouvait chanter la séguedille ou attendre les gens sur la grande route. 
+         Son chapeau baissé sur ses yeux, son visage pâle, ses longues moustaches, son nez en bec d'aigle, tout cela sentait le roman d'une lieue. 
+         Il s'en lassa, et enfanta une autre manière. Il se mit à pincer sa taille, à porter des bottes qui le serraient autant que des brodequins de torture, 
+         et des manchettes retroussées jusqu'au coude. Son feutre ne cachait plus ses traits, il était posé sur l'oreille, 
+         et ses cheveux retombaient sur son cou, parfaitement dégagé dans un col rabattu et une petite cravate basse. 
+         Comme tout le monde avait des paletots-sacs et des grands cols, on le regarda beaucoup ; il fit événement. 
+         Les suivants de la mode n'osèrent plus le saluer dans la rue. Ses amis ne lui ménagèrent pas les conseils, 
+         et on ne lui laissa pas ignorer l'effet produit par cette exhibition de hanches et de tournure plus qu'extraordinaires. </p>
+         <p>Il n'en fit que rire ; il se trouvait bien aise ; il se plaisait à lui-même, il n'en fallait pas davantage pour le contenter. 
+         Il persista donc et il persiste dans un autre genre. Ces habits singuliers sont-ils pour lui 
+         la queue du <persName type="fictional"> chien d'Alcibiade </persName>?
+         <note place="end">Mythologie grecque. <persName type="fictional">Alcibiade</persName> avait un chien d'une taille et d'une beauté étonnantes, qu'il avait payé soixante-dix mines. 
+         Il lui coupa la queue qui était magnifique. Comme ses amis le blâmaient, et lui rapportaient que tous se répandaient en critiques 
+         mordantes à propos de ce chien, <persName type="fictional">Alcibiade</persName> éclata de rire : "C'est exactement ce que je souhaite. 
+         Je veux que les Athéniens parlent de cela ; ainsi, ils ne diront rien de pire sur moi. "La vie d'Alcibiade", IX; PLUTARQUE"</note> 
+         ou bien a-t il si bonne opinion de lui-même qu'il croie son goût supérieur à celui des autres ? </p>
+         <p> <persName type="historical" ref="#BA"> Barbey d'Aurevilly </persName> a fait école, mais, ainsi que cela arrive toujours en pareil cas, 
+         les imitations sont loin du modèle. </p>
+         <p> Les uns ont copié son style <emph> emberlificoté </emph>, ils en sont arrivés au pathos et au galimatias. 
+         Nous avons dans la littérature cinq ou six jeunes gens, qui paraissaient chaque matin autrefois à son lever, 
+         qui l'écoutaient, qui buvaient ses paroles et les enregistraient pour s'en servir au besoin. 
+         Ceux-là ont grandi depuis, ils ont conquis des positions, mais leur premier maître a laissé sa marque sur leur esprit, 
+         ils ne songent plus à le copier, ils l'ont si bien imité autrefois, qu'ils ne peuvent plus s'en guérir. 
+         C'est un mal incurable.</p>
+         <p> D'autres se sont bornés à prendre à <persName type="historical" ref="#BA"> M. d'Aurevilly </persName> sa cravate et ses cols de chemise. 
+         Il y a toute une bande de myrmidons, dénudés comme des vautours, prenant des airs et croyant à leur importance, parce qu'on les regarde. 
+         La vanité est aussi immense dans un petit-maître infatué que dans un homme de talent qui se fourvoie. </p>
+         <p> <emph> Notre héros </emph> a des théories et des principes tout à fait à part en amour. Il n'aime pas les jolies femmes ; 
+         la beauté régulière ou même la grâce ne disent rien à ce goût quintessencié. Il s'est créé un type de femmes, et, 
+         toutes celles qu'il a aimées ressemblent, de près ou de loin, à ce type. </p>
+         <p> Ce n'est assurément ni celui de la <title>Vénus de Médicis</title>,
+         <note place="end">sculpture grecque en marbre représentant la déesse grecque de l'amour Aphrodite.</note> 
+         ni celui des statues de <persName type="historical"> Pradier </persName>
+         <note place="end"><persName type="historical">James Pradier </persName> (1790-1852), un des plus grand sculpteur de son époque. Il reçoit des commandes 
+         par les différents régimes politiques. Il participe à de nombreux salons parisiens où il rencontre les plus grands de son temps.</note>. 
+         Il adore les nez relevés, les pommettes saillantes et les grandes bouches. 
+         Il adore surtout les scélérates, celles qui le font donner au diable cent fois par jour. 
+         Ne lui parlez pas d'une maîtresse bonne, tendre, dévouée, il n'en a que faire, cela n'occupe pas assez l’imagination ; un fleuve tranquille, 
+         coulant entre deux rives fleuries, ne sera jamais pour lui que de l’eau ; un torrent impétueux brisant tout sur ses bords, 
+         roulant dans ses ondes des rochers qui tirent des arbres déracinés, attirera son regard et son intérêt. 
+         La douleur lui semble l'aiguillon de la vie.</p>
+         <p><persName type="historical" ref="#BA"> D'Aurevilly </persName> a eu, comme <persName type="historical"> Raphaël </persName>
+         <note place="end">Fameux peintre italien de la Renaissance.</note>, 
+         plusieurs manières, je vous parle ici de la seconde. Quant à la troisième, elle est grave, sérieuse, sévère. 
+         Il ne songe plus aujourd'hui à la terre que pour fustiger les travers des hommes ; il tient en grand mépris les futilités de ce monde et ne 
+         rêve qu'aux joies infinies permises dans l'autre à ceux qui sauront les gagner. Il est sur la brèche et combat plume en main les jolies idoles 
+         qu'il encensa jadis. Son talent a pris une teinte uniforme et nuisible ; il n'a plus de ces joyeux éclairs qui le plaçaient le premier entre 
+         tous les causeurs. Je ne saurais trop le répéter, et c'est là sa supériorité réelle sur ses rivaux, on ne cause plus comme lui. 
+         Quel délicieux convive ! Il semait des paillettes autour de lui, il savait tirer parti d'un sot, il lui prêtait de son esprit, il en tirait des saillies, 
+         il lui faisait dire mille choses auxquelles l'autre n'eût pas pensé et le renvoyait transporté de lui-même, ne se reconnaissant plus et demandant 
+         à voir chaque jour cet homme merveilleux qui donnait si généreusement ce qu'il avait de trop sans rien perdre néanmoins.</p>
+         <p> Cet esprit est un tremplin, il fait rebondir tout ce qui le frappe. Il se montre encore çà et là par quelques carreaux de la grille qui le cache. 
+         On ne saurait l'étouffer tout à fait, grâce à Dieu ! Quel dommage si nous le perdions sans retour et s'il ne nous restait pas l'espoir d'une quatrième 
+         manière où il brillera plus éclatant que jamais. </p>
+         <p> <persName type="pseudonym"> JACQUES REYNAUD </persName> </p>
+         </div>
+      </body>
+  </text>
+</TEI>
