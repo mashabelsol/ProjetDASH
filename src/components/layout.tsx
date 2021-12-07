@@ -127,8 +127,8 @@ export default function Layout({children}: Props) {
     setOpen(false)
   }
 
-  const pages = data.allFile.nodes.filter((item: any) => item.name !== 'Acceuil')
-  pages.unshift({name: 'Acceuil'})
+  const pages = data.allFile.nodes.filter((item: any) => item.name !== 'Accueil')
+  pages.unshift({name: 'Accueil'})
 
   return (
     <ThemeProvider theme={theme}>
@@ -180,7 +180,7 @@ export default function Layout({children}: Props) {
           <List dense>
             {pages.map((node: any) => {
               const title = node.name.charAt(0).toUpperCase() + node.name.slice(1)
-              const link = node.name === 'home' ? '' : node.name
+              const link = node.name === 'Accueil' ? '' : node.name
               return (
                 <ListItem button key={node.name}>
                   <ListItemIcon className={classes.listIcon}><ArrowRight/></ListItemIcon>
