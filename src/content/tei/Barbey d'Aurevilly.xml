@@ -23,9 +23,12 @@
   </teiHeader>
   <text>
       <body>
+          <div>
+         <head> PORTRAITS CONTEMPORAINS </head>
+         <p>Nous devons à l'exactitude de notre infatigable Fourrier une nouvelle étude littéraire 
+         du pseudonyme Jacques Reynaud.</p>
+         </div>
          <div>
-         <head type="dedication"> Nous devons à l'exactitude de notre infatigable Fourrier une nouvelle étude littéraire 
-         du pseudonyme Jacques Reynaud.</head>
          <head type="number"> IV </head>
          <head type="persName"> Barbey d'Aurevilly </head>
          <p> <persName type="historical" ref="#BA"> Barbey d'Aurevilly </persName> est devenu une actualité, grâce au <title> Pays </title> 
