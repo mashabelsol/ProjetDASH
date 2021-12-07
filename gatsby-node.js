@@ -51,8 +51,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   // Create pages
   result.data.allFile.nodes.map(node => {
-    const path = node.name === 'home' ? '/' : node.name 
-    const component = node.name === 'edition' ? edComponent : pageComponent
+    const path = node.name === 'Accueil' ? '/' : node.name 
+    const component = node.name === 'Édition' ? edComponent : pageComponent
 
     // Fix paths with regex (this is pretty unsafe, but will do for this pedagogical example)
     const rawPage = node.internal.content
