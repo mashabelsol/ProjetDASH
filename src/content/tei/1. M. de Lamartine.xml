@@ -5,19 +5,19 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Portraits Contemporains</title>
-            <author>Jacqques Reynaud</author>
+            <title>Portraits contemporains</title>
+            <author>Jacques Reynaud</author>
             <editor>Theavy Din</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Retrieved from Gallica</p>
+            <p>Retreived from Gallica</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
-                <pubPlace>Paris</pubPlace> 
-                <publisher>Figaro</publisher> 
-                <date>13 mai 1858</date>
-            </bibl>    
+               <pubPlace>Paris</pubPlace>
+               <publisher>Figaro</publisher>
+               <date>13 mai 1858</date>
+            </bibl>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -25,12 +25,13 @@
       <body>
          <div>
          <head>Portraits Contemporains</head>
-         <head><persName type="historical">Mr. de Lamartine</persName></head>
-         <head><emph>A monsieur le directeur du FIGARO,</emph></head>
-         <p>Votre journal est connu par son impartialité, monsieur <note place="end">Le Figaro a été récemment repris en 1854 
-         par le journaliste Hippolyte de Villemessant, et ce dernier contribua au renouveau du journal. Devenu un succès dans la capitale, 
-         notamment grâce à la contribution de grands noms littéraires, il se peut que la comtesse Dash soit particulièrement intéressée par 
-         le nouvel esprit que le journal offre.</note>; chacun y parle selon sa conviction, et c'est peut-être le seul entre tous où l'on retrouve 
+         <head><persName type="historical">M. de Lamartine</persName></head>
+         <p><emph>A monsieur le directeur du FIGARO,</emph></p>
+         <p>Votre journal est connu par son impartialité, monsieur 
+         <note place="end">Cette entrée en matière ironique donne le ton du portrait, et en souligne la cohérence avec la politique éditoriale du <emph>Figaro</emph>, 
+         miroir de la vie parisienne depuis sa reprise, en 1854, par Hippolyte de Villemessant. Le <emph>Figaro</emph> du Second Empire se conçoit en effet dans le prolongement du petit journal satirique  du même nom, fondé en 1826,
+         dont il est l'incarnation moderne. Voir <emph>Le Figaro, Histoire d'un journal</emph>, éd. Claire Blandin, Paris, Nouveau Monde éditions, 2010.</note>
+         ; chacun y parle selon sa conviction, et c'est peut-être le seul entre tous où l'on retrouve 
          le même homme, ou le même fait, blâmé avec excès ou loué avec passion à quelques lignes de distance. Cette tolérance, qui fait du <title>Figaro</title> 
          une sorte de <emph>port franc</emph> <note place="end">Terme généralement employé en géographie pour une zone portuaire, 
          un port franc fait référence à une zone de libre échange sans contraintes</note>, est une des conditions de son succès. 
@@ -64,9 +65,9 @@
          et qu’il était doux de chanter sur ses bords ! Cette voix pure retentissant dans le silence des nuits, a dominé toute une génération, 
          a fait vibrer jusqu’aux dernières fibres du cœur chez ceux qui l'écoutaient, religieusement penchés sur les urnes des tombeaux, 
          ou se promenant avec leur adorée sous les grands arbres. Pendant quinze ans, on a rêvé, on a souffert, 
-         d'après le bon plaisir du chantre du <title>Lac</title> <note place="end"> Le Lac, poème lyrique probablement le plus célèbre de Lamartine, 
-         apparut en 1820 dans son premier recueil de poèmes Méditations poétiques. Par admiration ou moquerie, la comtesse reproduit dans ce même 
-         paragraphe la ponctuation exacerbée de ce poème, par ses interjections et ses points d’exclamation. </note>: il nous a fascinés, éblouis.</p>
+         d'après le bon plaisir du chantre du <title>Lac</title> <note place="end"> <emph>Le Lac</emph>, le poème le plus célèbre de Lamartine, paraît en 1820 dans <emph>Méditations poétiques</emph>. 
+         Le paragraphe reproduit la ponctuation exacerbée et la surabondance d'interjections de ce poème emblématique, 
+         introduisant sous couvert d'éloge, une critique complice et malicieuse du lyrisme romantique.</note>: il nous a fascinés, éblouis.</p>
 	      <p>On n'eût pas osé aimer en prose alors mesdames du <placeName>quartier Bréda</placeName> seraient mortes de faim sur les bornes, 
          si <placeName>le quartier Bréda</placeName> <note place="end">Le quartier Bréda était un ancien quartier de Paris avoisinant Montmartre, 
          fréquenté par des femmes aux mœurs légères pour l’époque. Ce quartier et ces femmes auraient inspiré bons nombres d’artistes dans leurs productions.</note> 
@@ -91,7 +92,7 @@
          devient tous les jours plus ardente. Après l'éloquence qui entraîne, elle voulut l'éloquence qui domine, elle aspira au premier rang, 
          elle oublia le passé, elle l'effaça de sa mémoire et crut l'effacer de celle des autres; mais l'histoire est impitoyable, elle n'efface rien ! 
          <title>Les Girondins</title>parurent<note place="end">Oeuvres majeures de Lamartine publiée en 1847 à la veille de la révolution de 1848, 
-         Histoire des Girondins, huit tomes rassemblant soixante-et-un livres, à caractère politique et proposant une moralité à adopter à l’approche 
+         l'<emph>Histoire des Girondins</emph>, huit tomes rassemblant soixante-et-un livres, à caractère politique et proposant une moralité à adopter à l’approche 
          d’une future révolution.</note>! <title>les Girondins</title>, ce livre séduisant et terrible, auquel nous devons peut-être les malheurs de 48. 
          Il offrira une particularité singulière : c'est que chacun des journaux en donna des extraits conformes à son opinion. 
          Les uns prirent le portrait de la reine et celui de <persName type="historical">Charlotte Corday</persName>; les autres celui de 
@@ -144,8 +145,8 @@
 	      <p><emph>On</emph>, cet être impalpable qui a toujours raison, à qui tout est permis, même les contradictions flagrantes, 
          <emph>on</emph>prétend que notre poète a beaucoup donné, qu'il a fait et fait encore un bien prodigieux autour de lui, 
          que de cette munificence et de cette charité provient la gêne au secours de laquelle toute la <placeName>France</placeName> est conviée en ce moment.</p>
-	      <p>D’un autre côté <emph>on </emph> assure que le cœur de <persName type="fictional">Raphaël</persName> <note place="end">Raphaël, 
-         œuvre de Lamartine datant de 1849, produit au début du Second Empire lorsque ce dernier commence à faire face à des problèmes d’argent.</note> 
+	      <p>D’un autre côté <emph>on </emph> assure que le cœur de <persName type="fictional">Raphaël</persName> <note place="end"><emph>Raphaël</emph>, 
+         (1849) est un roman autobiographique de Lamartine qui reprend, alors que celui-ci est un homme déjà mur, engagé en politique et tracassé par des problèmes d'argent, l’événement fondateur de sa carrière poétique: sa rencontre avec Julie Charles.</note> 
          fait plus de bruit que de besogne, <emph>on </emph> parle de séides éprouvés, oubliés complètement aux jours de la puissance, 
          <emph>on </emph> cite des infortunes méconnues, parce qu'elles étaient silencieuses et modestes, et qu’en les soulageant l'ami n'eût 
          rien ajouté ni à sa popularité, ni à sa renommée. Au fond cette lyre mélodieuse aime peu de choses, excepté ses levrettes et sa personnalité, 
