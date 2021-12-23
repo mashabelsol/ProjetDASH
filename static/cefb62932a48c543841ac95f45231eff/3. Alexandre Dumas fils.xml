@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Alexandre Dumas Fils</title>
+            <author> <persName type="pseudonym"> les pseudonymes </persName>Jacques Reynaud </author>
+            <editor>Marie Laverdiere</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl> 
+               <pubPlace>Paris</pubPlace>
+               <publisher> Figaro</publisher>
+               <date> jeudi le 1er juillet 1858 </date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <head type="portraits"> Portraits Contemporains </head>
+         <head type="persName"> Alexandre Dumas fils </head>
+           <p>Le public aime les jeunes gloires, il les protège, il s'en occupe, il est prêt à leur accorder mille qualités aussi brillantes 
+           que leur talent. Il s'informe de ce qu'elles sont, de la façon dont elles vivent ; chacun fait ses conjectures, d'après l'appréciation 
+           du livre qu'il a lu ou de la pièce qu'il a vu jouer. C'est un sujet de conversation perpétuelle pour ceux qui se représentent la célébrité 
+           comme une enceinte défendue, et qui regardent à travers les planches afin d'entrevoir ce pays inconnu. 
+           <persName type="historical" ref="AD"> Alexandre Dumas</persName> fils est, à ce point de vue comme aux autres, un des favoris du public.</p>
+
+           <p>On a dévoré, dans les petits journeaux, des détails sur son intérieur, sur <persName>Louise</persName>, sa servante, une espèce de
+            <persName>Laforêt</persName>
+            <note place="end">Louise Laforêt, servante de Molière, rendue célèbre par l'anecdote (sans doute apocryphe) relatée par Boileau : « On dit que Malherbe consultait sur ses vers jusqu'à l'oreille de sa servante ; et je me souviens que Molière m'a montré aussi plusieurs fois une vieille servante qu'il avait chez lui, à qui il lisait, disait-il, quelquefois ses comédies, et il m'assurait que, lorsque des endroits de plaisanterie ne l'avaient point frappée, il les corrigeait, parce qu'il avait plusieurs fois éprouvé sur son théâtre que ces endroits n'y réussissaient pas . » (Boileau, <emph>Réflexion 1ère sur Longin</emph>)</note>, disait-on. 
+            On sait qu'il habite une jolie maison rue de Boulogne, et, après avoir applaudi 
+            le <emph rend="italic"> Fils naturel </emph> ou le <emph rend="italic"> Demi-Monde </emph> , on se retire satisfait, en racontant à sa femme les faits et gestes de l'auteur.</p>
+           <p>Ce n'est pas ainsi que nous procéderons, si vous voulez bien le permettre : il y a plus et mieux à dire sur une des plus vastes intelligences
+           de ce temps-ci. <persName type="historical" ref="AD">Alexandre</persName> est un type rare ; par la littérature qui court, on n'y trouverait pas son pareil.
+           Il tient tout de lui et rien des autres ; il n'a même rien pris à son père<note place="end">Référence au portrait précédent, consacré à Alexandre Dumas, père.</note> que l'esprit, et encore 
+           leur esprit ne se ressemble que par un seul point : la spontanéité.</p>
+           <p>Tout les deux ont des mots étincelants, ces mots produisent un effet opposé. Le père éblouit, le fils pénétre. 
+           L'un est <emph rend="italic"> éclatant </emph>, l'autre est profond. On répéte les mots de <persName type="historical">Dumas</persName>, 
+           on pense à ceux d'<persName type="historical" ref="AD">Alexandre</persName>. L'esprit du père est une aigrette de diamants à faire chatoyer au soleil, 
+           celui du fils est une de ces pierres gravées, renfermées dans un écrin, qu'on admire à la loupe, dont chaque détail est sans prix.
+           Il observe, il voit et il pense ; il fait des tableaux où la ressemblance est aussi remarquable que le coloris. 
+           Depuis <persName type="historical">Balzac</persName>, on n'avait rien vu d'aussi <emph rend="italic"> fouillé </emph> dans le coeur et 
+           dans les moeurs contemporaines. On l'accuse de ne nous montrer qu'un <emph rend="italic"> certain monde </emph> et de ne pas connaître le meilleur. 
+           Malheureusement, et ce n'est point un des moindres travers de notre temps, <emph rend="italic"> ce certain monde </emph> est mêlé à tout. 
+           Il n'est pas un hôtel de l'aristocratie la plus haute et la plus sévère dont il n'ait franchi le seuil, en dépit des suisses, des scruples et des douairières. 
+           Les jeunes gens et même les maris, hélas! ont des rapports si frèuents avec la bohème, qu'elle s'est inféodée à la société.</p>
+           <p>Ces <emph rend="italic"> desmoiselles </emph> connaissent les affaires et les relations des grandes maisons aussi bien que celles du quartier 
+           <placeName ref="https://www.digitalcommonwealth.org/search/commonwealth-oai:k643cb080"> Bréda </placeName>. Elles sont devenues le mobile des choses graves, 
+           ces vierges folles, et plus d'une famille est forcée de compter avec elles. <persName type="historical" ref="AD">Alexandre</persName> nous les a poêtisées, 
+           j'en conviens. Sa <title ref="https://fr.wikipedia.org/wiki/La_Dame_aux_cam%C3%A9lias">><emph rend="italic"> Dame aux Camellias</emph></title>, 
+           cette délicieuse élégie, est la moins réelle de ses pièces, mais <title ref="https://gallica.bnf.fr/ark:/12148/bpt6k1524593j/f11.item.zoom">
+           <emph rend="italic"> le Demi-Monde </emph></title> est parfait. <note place="end"> Tant le roman <emph>La Dame aux Camélias</emph> que la pièce <emph>Le Demi-Monde </emph> 
+           se concentrent sur le monde de l'adultère et de la prostitution, sujets qui, ainsi que le sous-entend le portrait, intéressent sans doute Dumas fils en tant qu'enfant adultérin.</note> C'est la nature prise sur le fait : les personnages vivent ; on mettrait volontiers 
+           leur nom au bas de leurs portraits. Il a enrichi la langue de cette locution : <emph rend="italic"> le demi-monde </emph>, laquelle est ordinairement 
+           fort mal appliquée par ceux qui la rèpetent. On l'attribue à ce qui n'est pas le monde du tout ; on oublie la ravissante définition des pêches à quinze 
+           sous, déprécies seulement par une tache, et l'on veut nous faire payer aussi cher les pèches de la fruitère du coin. </p>
+           <p>Le talent et l'esprit de <persName type="historical" ref="AD">M. Dumas fils</persName> sont connus de tous, nul ne les discute, ses ennemis chicanent
+           sur les mots, voilà tout ; quant au succès, il n'est pas contesté. Une autre question présente à côté de celle-là et donne lieu à des discussions fréquentes:
+           avec ce talent, avec cet esprit, <persName type="historical" ref="AD">Alexandre </persName> a-t-il du coeur ! Si vous écoutez les envieux, enchantés de mordre 
+           sur une réputation qui les contrarie, ils vous diront qu'il est égoiste ; si vous écoutez ses amis, ils vous diront qu'il est prudent. Ils vous prouveront qu'il
+           sait donner à propos, qu'il va chercher les infortunes intéressantes et honorables pour les soulager. Ils vous diront que jamais un artiste ne s'est adressé à 
+           lui en vain, qu'il prévient leurs demandes et que, sans jouer au Mécène,
+           il a aidé incognito des embarras qu'on n'avouait pas; mais il ne prodique pas ses services, et ne fait pas de sa maison un bureau de bienfaisance. Il n'a pas le 
+           laisser-aller généreux de son père, il sait refuser enfin, ce que celui-ci n'a jamais pu prendre sur lui. </p>
+           <p>Le fils a vu de près les ingratitudes, les dèceptions, résultat inévitable d'une bonté facile, et connue il réfléchit 
+           beaucoup, comme il se souvient, il en a fait son profit. Les enfants des confiseurs et des pâtissiers ne sont pas gourmands ; le fils d'<persName type="historical">Alexandre Dumas</persName>, 
+           boursier général de ceux qui ne rendent jamais, ne pouvait jeter au vent ses écus et son amitié. La réserve d'<persName type="historical" ref="AD">Alexandre</persName> est la conséquence 
+           de son éducation et des exemples qu'on lui a donnés. La vie de son père est pour lui un fanal planté sur l'abime. </p>
+           <p><persName type="historical" ref="AD">Dumas fils</persName> <emph rend="italic"> est avant tout l'homme du devoir </emph>, 
+           il les remplira tous, ne restera pas en arrière de la moindre obligation ; vous ne trouverez pas chez lui ce premier mouvement si 
+           chaud de <persName type= "historical" ref="AD">Dumas</persName> ; il est froid en apparence, et peut-être l'est-il devenu réellement, 
+           lorsque le premier feu des passions s'est éteint. Sa jeunesse, je dirais presque son adolescence, a été orageuse ; il en est revenu vite ;
+           il a commencé à se ranger le jour où il a commmencé sa fortune. Il a mûri en vingt-quatre heures, sous le soleil du lustre et au bruit des applaudissements.
+           C'est à présent un homme raisonnable et rainnant, calculant son existence, ne faisant rien à la lègere, analysa t les gens et les choses, se gardant des surprises 
+           et des entraînements comme de la peste, et sa garantissant des habitudes, même lorsqu'elles sont agréables et douces. </p>
+           <p>Il est homme d'honneur, dans toute la force du mot. Il tient ses promesses, qualité plus rare qu'on ne le croit, maintenant que les paroles <emph rend="italic"> 
+           solides </emph> ne sont plus les paroles d'honneur, mais les paroles de notaires. Il est sérieux, positif, il fait des économies, place ses fonds, s'inquiète du 
+           cours de la Bourse, et se prépare un avenir. Son rève, on aura de la peine à le croire, c'est la vie de campagne. Il aspire déjà au repos et à la retraite, 
+           il donnerait ses couronnes les plus fleuries pour un joli château confotable, échenillé des ennuyeux et des parasites, avec un bon rapport, une chasse passable, 
+           et une entière liberté.</p>
+           <p>On le marie dix fois par an, il n'y a point songé serieusement, peut-être parce qu'on y a beaucoup songé pour lui. 
+           Je parierais qu'il ne se mariera pas. <note place="end">Contrairement au pronostic de Dash <emph>alias</emph> Roubaud, Dumas épousera le 31 décembre 1864 sa maîtresse de longue date, la princesse Narychkine, Nadejda von Knorring (1826-1895) après le décès du prince Narychkine survenu en mai.</note> Il ne fera ni un mariage d'argent, ni un mariage d'amour, dans l'acception complète de ces mots. 
+           Il n'épousera pas sans amour une fille sans fortune, il voudra qu'on lui apporte ce qu'il apprtera lui-même ; il ne se vendrea jamais ; 
+           en revanche, il est capable de faire la fortune d'une jeune personne dont la famille, la position, la beauté, le caractère surtout lui 
+           conviendront. Il n'agira pas comme un autre homme en pareil cas, ce sera un emportement raisonné ; après avoir étudié son <emph rend="italic"> héroïne </emph>, 
+           s'il croit être heureux avec elle, il l'épousera, en sachant parfaitement ce qu'il fait. Il lui dira loyalement ce qu'il est et ce qu'il pense, 
+           ce qu'il désire, ce qu'il attend d'elle, et, si ce <emph rend="italic"> programme </emph> n'est pas aussi franchement adopté qu'il le présente, 
+           il se retirera sans reproches, je ne dirai pas sans regrets ; pourtant, à coup sûr, il ne le montrera pas.</p>
+           <p>Il n'est pas confiant, il a médiocre opinion de l'espèce humaine, il cherche les raisons de ce qu'il voit. 
+           Il rend volontiers justice à ce qui est bien, il n'est point envieux, il est moqueur, parce qu'il est sceptique. 
+           Son ironie est profonde, elle ne rit pas, elle mord. Il a des amis qui, presque tous, l'aiment plus qu'ils n'en sont aimés. 
+           Son défaut est le désenchantement, si toutefois on peut appeler défaut le fruit amer de l'expérience, cueilli trop vite.</p>
+           <p>Il est atteint de la maladie inhérente à sa génération, il ne croit qu'au plaisir et pas à l'amour. La passion, telle qu'on la comprenait 
+           il y a vingt-cinq ans, est l'objet perpétuel de ses épigrammes. Les femmes incomprises et échevelées ne trouveront chez lui aucune sympathie, il leur dirait volontiers quand elles pleurent :</p>
+           <p><quote>--Qu'est-ce que cela prouve ?</quote></p>
+           <p>Assurément il leur <emph rend="italic"> prouvera </emph> qu'elles ont tort de pleurer, parce que cela rougit les yeux, et que, puisqu'on se console de tout, 
+           il vaut mieux s'épargner les frais inutiles du désespoir et se tenir pour consolé tout de suite.</p>
+           <p>Les chagrins d'amour n'empêcheront jamais <persName type="historical" ref="AD">Alexandre</persName> de dormir, et ce n'est pas 
+           moi qui l'en blâmerais. Une maîtresse ne saurait prendre sur lui assez d'empire pour le déranger de sa voie, il ne lui donnera 
+           que ses moments perdus ; il ne la comproteera pas, si elle ne veut pas l'être, mais si elle se souvie des propos, il est trop 
+           partisan du sans-gêne pour la contrarier.</p>
+           <p>Il est à sa place partout; peut-être porte-t-il trop son individualité dans certains cercles, où on le voudrait plus soumis aux vieilles coutumes ; 
+           il le sait et ne changera rien à ses manières, parce qu'il a la conscience de sa valoeur. Il peut être un exception et s'imposer tel qu'il est, 
+           cependant il déteste qu'on le remarque, qu'on joue de son esprit et qu'on le montre en faćon lontiers un livre intitulé : <emph rend="italic"> 
+           Malheurs de la célébrité, de la fortune et de la gloire </emph>.</p>
+           <p>Il a de l'ordre, il n'est point avare. Tout est réglé chez lui : on y trouve ce qu'il faut sans prodigalité ; sa petite maison est un bijou. 
+           Il sait choisir les meubles et les curiosités, il harmonise les objets et ne sacrifie par le confort à l'élégance. On se chaugge bien, 
+           sa table est bien servie sans luxe. IL y a toujours place pour un ami ; il reçoit simplement et gracieusement. Il est reconnaissant quand on l'amuse ; 
+           il vous sait gré de lui plaire. IL fait souvent valoir l'esprit des autres ; il écoute volontiers : c'est une étude. Il a la prétention de connaître 
+           à fond ceux qui l'entourent ; si fin qu'il soit, il est encore trompé. Les grandes capacités sont presque toujours dupées par des sots, dont la spécialité 
+           est le soin de leurs intérêts.</p>
+           <p>Il travaille ses pièces jusqu'à l'excès, il les refait même tout entières, acte par acte, scène par scène; on sent ce travail, et cela lui nuit aux 
+           yeux de certaines gens. Il se peut qu'il les rende moins bonnes, il oublie trop que <emph rend="italic"> le mieux est l'ennemi du bien </emph>.
+           Il reste des heures sans parler, tout seul ou avec du monde. On croirait qu'il rêve, il réfléchit. Le rêve c'est l'idéal, la réflexion c'est le vrai, 
+           et le propre du caractère comme du talent d'<persName type="historical" ref="AD">Alexandre</persName>, c'est d'être vrai avant tout. Il ne daigne pas mentir, 
+           le mensonge lui déplaît, et il n'estime pas assez les hommes pour prendre la peine de les tromper, les femmes encore moins. Il a d'excellents procédés pour 
+           celles qui savent se retirer à propos, il leur est franchement bienveillant. Au total, et je commencerais tout de suite par où elles finissent.</p>
+           <p>Il est heureux, tout lui réussit. Bien qu'il ait beaucoup souffert dans le commencement de sa vie, cette souffrance même a été le principe de son bonheur.
+           Elle lui a appris l'existence à un âge où les autres jouent au cerceau. C'est à cette souffrance qu'il doit sa tranquillité d'aujourd'hui. Il n'a rien oublié ; 
+           il puise dans le passé douloureux des armes pour combattre l'avenir et surtout des préservaitfs contre les ennemis de son repos. 
+           Ainsi, pour lui, les <emph rend="italic"> pires destins </emph> engendrent de beaux jours ; c'est rare. Vous verrez où il parviendra et comme il arrengera 
+           son nid pour que rien ne l'y blesse, pour que rien n'y manque et que tout y soit à sa place.</p>
+           <space></space>
+           <p>En ses heureuses mains le cuivre devient or. <note place="end"> Citation directe de <emph rend="italic"> Le Joueur </emph>, la 1696 comédie Jean-François Regnard </note></p>
+           <space></space>
+           <p>S'il désire une chose, elle arrive ; s'il s'interesse à une affaire, elle réussit. Il a peu de souhaits à former, Dieu lui accorde tout. 
+           Il est jeune, il a une santé splendide, il a suffisament de beauté pour qu'elle ne nuise pas à son esprit ; il a le savoir-faire et le savoir-dire ; 
+           il ne lui manque rien, même des ennemis. On s'est d'abord servi de lui comme d'une massue, pour <emph rend="italic"> démolir </emph> son père ; 
+           on l'a porté aux nues, espérant qu'il en tomberait tout seul. À présent qu'il s'y trouve bien et qu'il persiste à y rester, on cherche à le jeter à bas. 
+           On lui en veut de sa réussite. Les taupes ne sont pas mortes depuis le temps d'<persName type="historical">Aristophane</persName> ; elles travaillent 
+           constamment. Elles n'ont pas d'yeux et ne permettent pas que la lumière se fasse. Que gagnerions-nous à les combattre ? Il en restera toujours.</p>
+           <p>Au total <persName type="historical" ref="AD">Alexandre</persName> est une nature aussi complète qu'il est donné à notre imperfection de l'être. 
+           Il laissera le rare exemple d'un homme supérieur que le sort et les hommes ne persècutent pas. Ce ne sera point un martyr de l'art, il ne payera 
+           point ses triomphes, il faut bien que cela arrive quelquefois ainsi, ne fût-ce que pour encourager ceux qui débutent. Je ne leur conseille pas de s'y fier.</p>
+           <byline><persName type="pseudonym"> Jacques Reynaud </persName></byline>
+
+         </div>
+      </body>
+  </text>
+</TEI>
